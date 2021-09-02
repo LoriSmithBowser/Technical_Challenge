@@ -1,0 +1,1 @@
+#This is the same as the above variable.tf file just declare all variables that we are using in main.tf a file so we can use get all variables value from production.tf file.
